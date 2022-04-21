@@ -91,7 +91,7 @@ export default class App extends Component {
     return (
       <div>
         <div className='points'>
-          Your points : {this.state.points}
+          Your points: {this.state.points}
         </div>
         {
           this.state.error &&
