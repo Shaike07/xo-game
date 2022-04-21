@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/xo-game/static/js/main.e529f8e4.js",
+    "main.js": "/xo-game/static/js/main.beef2a19.js",
     "index.html": "/xo-game/index.html",
-    "main.e529f8e4.js.map": "/xo-game/static/js/main.e529f8e4.js.map"
+    "main.beef2a19.js.map": "/xo-game/static/js/main.beef2a19.js.map"
   },
   "entrypoints": [
-    "static/js/main.e529f8e4.js"
+    "static/js/main.beef2a19.js"
   ]
 }
