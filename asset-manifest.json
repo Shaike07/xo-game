@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xo-game%20/static/css/main.073c9b0a.css",
+    "main.js": "/xo-game%20/static/js/main.35768d5e.js",
+    "static/js/787.4abf4ae3.chunk.js": "/xo-game%20/static/js/787.4abf4ae3.chunk.js",
+    "index.html": "/xo-game%20/index.html",
+    "main.073c9b0a.css.map": "/xo-game%20/static/css/main.073c9b0a.css.map",
+    "main.35768d5e.js.map": "/xo-game%20/static/js/main.35768d5e.js.map",
+    "787.4abf4ae3.chunk.js.map": "/xo-game%20/static/js/787.4abf4ae3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.35768d5e.js"
+  ]
+}
